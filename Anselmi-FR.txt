@@ -1,0 +1,33 @@
+1) The system shall provide a list of (2)MoSiWo based on the (15)user’s selected (18)MoSiWo’s search filters. 
+
+2) The system shall provide to (12)Mosiwers a (2)MoSiWo (6)splendor/glory (5)rating feature.
+
+3) The system shall provide to (15)users information (i.e. name, at least 2 pictures, description, history, position on the map) about a selected (2)MoSiWo.
+
+
+
+
+DICTIONARY:
+1)	itinerary preferences: duration of the itinerary, kilometres to run, amount of MoSiWo, open-air or indoor MoSiWo, country, city, open-air, indoor, distance radius, monuments, sites, works, most recommended by users, preferred (da aggiungere?).
+2)	MoSiWo/MoLuOp: Monuments, sites (luoghi), works (opere, artefatti).
+3)	issues: holes, graffiti, plugged sewers, unsafe structures
+4)	MoSiWo Gifts: discounts for green supermarkets/market, offers for ecological vehicles rental/purchase, discounts for public transport passes.
+5)	rate/rating: users can rate MoSiWo (6)splendor/glory by choosing in a range of 1 -:- 5 stars.
+6)	splendor/glory: subjective beauty, cleaning, state of the material or place.
+7)	RedEvents: are redeveloping events of degraded places and degraded (2)MoSiWo.
+8)	Reports: are reports of city and (2)MoSiWo (3)issues.
+9)	Tastes filter: open-air, indoor, monuments, sites, works, distance radius.
+10)	Green works: tree planting, green works creating, open-air relaxing/meeting areas.
+11)	Unknown MoSiWo: a (2)MoSiWo of which there is no information or it is little known by people.
+12)	Mosiwers: are tourists, volunteers, citizens, itinerant workers, art lovers, eco supporters registered to the system.
+13)	Visitors: are unlogged/unregistered users of the system.
+14)	Co: is a private or public company registered to the system.
+15)	User: is a (12)Mosiwer, (13)Visitor ?and (14)Co? logged/registered or unlogged/unregistered to the system.
+16)	Green space: is a piece of land or grass (herb) suitable for (10)green works.
+17)	mosiwo event: is an event about a (2)MoSiWo (e.g. first month’s Sunday free entry, redeveloped site, ??????????)
+18)	MoSiWo’s search filter: filters of (2)MoSiWo’s search are for country, city, open-air, indoor, distance radius, monuments, sites, works, most recommended by users, preferred, (20)typology and (21)art movement.
+19)	RedEvent’s search filter: filters of (7)RedEvent’s search are for country, city, distance radius, sites, monuments, open-air, indoor.
+20)	Typology: typology is monuments, sites and works.
+21)	Art movement: it is Roman Empire, Gothic style, medieval style, contemporary style, religious, futuristic.
+22)	MosiwoCoins: are points that logged users get when they rate MoSiWos, (8)report city or MoSiWo issues, create RedEvents or join RedEvents and add a new unknown MoSiWo.
+23)	Mosiwo interest point: it is a point for (2)MoSiWo viewing, entrance, panoramic view, best selfie point, MoSiWo/Tourist coaches ticket sales point.
